@@ -1,4 +1,4 @@
-# Installing Kali Linux on VirtualBox
+# Ex-05 Installing Kali Linux on VirtualBox
 
 ## Objective:
 Install and configure Kali Linux in Oracle VM VirtualBox.
