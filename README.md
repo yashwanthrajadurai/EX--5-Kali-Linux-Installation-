@@ -1,7 +1,7 @@
 # Ex-5 Installing Kali Linux on VirtualBox
 
-### Name: Ranjeeth B K
-### Reg No: 212222040132
+### Name: Yashwanth Raja Durai
+### Reg No: 212222040184
 
 ## Objective:
 Install and configure Kali Linux in Oracle VM VirtualBox.
